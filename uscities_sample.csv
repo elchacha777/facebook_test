@@ -1,0 +1,2 @@
+"city","city_ascii","state_id","state_name","county_fips","county_name","lat","lng","population","density","source","military","incorporated","timezone","ranking","zips","id"
+"Little Rock","Little Rock","AR","Arkansas","05119","Pulaski","34.7256","-92.3577","457379","637.0","shape","FALSE","TRUE","America/Chicago","2","72211 72210 72212 72209 72202 72201 72206 72207 72204 72205 72103 72223 72227 72215 72217 72219 72222 72225 72231 72255 72260 72295","1840015509"
